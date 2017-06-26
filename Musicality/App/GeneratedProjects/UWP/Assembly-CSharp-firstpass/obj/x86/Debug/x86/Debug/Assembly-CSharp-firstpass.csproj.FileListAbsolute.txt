@@ -1,0 +1,17 @@
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\priconfig.xml
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\priconfig.xml.intermediate
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\layout.resfiles
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\layout.resfiles.intermediate
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\resources.resfiles
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\resources.resfiles.intermediate
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\pri.resfiles
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\pri.resfiles.intermediate
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\qualifiers.txt
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+C:\Users\harry\Documents\Unity\Musicaloty\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt

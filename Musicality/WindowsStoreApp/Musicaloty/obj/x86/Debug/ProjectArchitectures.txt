@@ -1,0 +1,4 @@
+C:\Users\harry\Documents\Unity\Musicaloty\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\harry\Documents\Unity\Musicaloty\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\harry\Documents\Unity\Musicaloty\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\harry\Documents\Unity\Musicaloty\WindowsStoreApp\Musicaloty\Musicaloty.csproj;x86

@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 7214b9fa08ca0d145b1bc606a0510823
+timeCreated: 1498410723
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box06
+    100002: Box07
+    100004: Box08
+    100006: Box09
+    100008: case
+    100010: conceal plane
+    100012: Cone01
+    100014: Cone02
+    100016: Cone03
+    100018: Cone04
+    100020: control panel
+    100022: Cylinder01
+    100024: Cylinder02
+    100026: Cylinder03
+    100028: Cylinder04
+    100030: Cylinder05
+    100032: Cylinder06
+    100034: Cylinder07
+    100036: Cylinder11
+    100038: Cylinder14
+    100040: Cylinder15
+    100042: front panel
+    100044: handel
+    100046: handel1
+    100048: Input
+    100050: Input and knobs
+    100052: knob
+    100054: knob01
+    100056: Line01
+    100058: Line02
+    100060: Line03
+    100062: Line04
+    100064: Line05
+    100066: Line06
+    100068: Line08
+    100070: Line09
+    100072: Line10
+    100074: Line11
+    100076: Line12
+    100078: Line13
+    100080: Line14
+    100082: Line15
+    100084: Line16
+    100086: Line17
+    100088: Line18
+    100090: Line19
+    100092: Line20
+    100094: Line21
+    100096: Line22
+    100098: Line23
+    100100: Line24
+    100102: Line25
+    100104: Line26
+    100106: Line27
+    100108: Line28
+    100110: Line29
+    100112: Line30
+    100114: Line31
+    100116: Line32
+    100118: Line33
+    100120: Line34
+    100122: Line35
+    100124: Line36
+    100126: Line37
+    100128: Line38
+    100130: Line39
+    100132: Line40
+    100134: Line41
+    100136: Line42
+    100138: Line43
+    100140: Line44
+    100142: Line45
+    100144: Line46
+    100146: Line47
+    100148: Line48
+    100150: Line49
+    100152: Line50
+    100154: Line51
+    100156: Line52
+    100158: Line53
+    100160: Line54
+    100162: Line55
+    100164: Line56
+    100166: Line57
+    100168: Line58
+    100170: Line59
+    100172: Line60
+    100174: Line61
+    100176: Line62
+    100178: Line63
+    100180: Line64
+    100182: Line65
+    100184: Line66
+    100186: Line67
+    100188: Line68
+    100190: Line69
+    100192: Line70
+    100194: Line71
+    100196: Line72
+    100198: Line73
+    100200: Piano keys
+    100202: plastic1
+    100204: plastic2
+    100206: rhodes logo
+    100208: rhodes logo2
+    100210: //RootNode
+    100212: Seventy Three
+    100214: sides
+    100216: sides01
+    100218: sides02
+    100220: sides03
+    100222: Stand
+    100224: Stand holes
+    100226: sustain pedal
+    100228: top leather
+    400000: Box06
+    400002: Box07
+    400004: Box08
+    400006: Box09
+    400008: case
+    400010: conceal plane
+    400012: Cone01
+    400014: Cone02
+    400016: Cone03
+    400018: Cone04
+    400020: control panel
+    400022: Cylinder01
+    400024: Cylinder02
+    400026: Cylinder03
+    400028: Cylinder04
+    400030: Cylinder05
+    400032: Cylinder06
+    400034: Cylinder07
+    400036: Cylinder11
+    400038: Cylinder14
+    400040: Cylinder15
+    400042: front panel
+    400044: handel
+    400046: handel1
+    400048: Input
+    400050: Input and knobs
+    400052: knob
+    400054: knob01
+    400056: Line01
+    400058: Line02
+    400060: Line03
+    400062: Line04
+    400064: Line05
+    400066: Line06
+    400068: Line08
+    400070: Line09
+    400072: Line10
+    400074: Line11
+    400076: Line12
+    400078: Line13
+    400080: Line14
+    400082: Line15
+    400084: Line16
+    400086: Line17
+    400088: Line18
+    400090: Line19
+    400092: Line20
+    400094: Line21
+    400096: Line22
+    400098: Line23
+    400100: Line24
+    400102: Line25
+    400104: Line26
+    400106: Line27
+    400108: Line28
+    400110: Line29
+    400112: Line30
+    400114: Line31
+    400116: Line32
+    400118: Line33
+    400120: Line34
+    400122: Line35
+    400124: Line36
+    400126: Line37
+    400128: Line38
+    400130: Line39
+    400132: Line40
+    400134: Line41
+    400136: Line42
+    400138: Line43
+    400140: Line44
+    400142: Line45
+    400144: Line46
+    400146: Line47
+    400148: Line48
+    400150: Line49
+    400152: Line50
+    400154: Line51
+    400156: Line52
+    400158: Line53
+    400160: Line54
+    400162: Line55
+    400164: Line56
+    400166: Line57
+    400168: Line58
+    400170: Line59
+    400172: Line60
+    400174: Line61
+    400176: Line62
+    400178: Line63
+    400180: Line64
+    400182: Line65
+    400184: Line66
+    400186: Line67
+    400188: Line68
+    400190: Line69
+    400192: Line70
+    400194: Line71
+    400196: Line72
+    400198: Line73
+    400200: Piano keys
+    400202: plastic1
+    400204: plastic2
+    400206: rhodes logo
+    400208: rhodes logo2
+    400210: //RootNode
+    400212: Seventy Three
+    400214: sides
+    400216: sides01
+    400218: sides02
+    400220: sides03
+    400222: Stand
+    400224: Stand holes
+    400226: sustain pedal
+    400228: top leather
+    2300000: Box06
+    2300002: Box07
+    2300004: Box08
+    2300006: Box09
+    2300008: case
+    2300010: conceal plane
+    2300012: Cone01
+    2300014: Cone02
+    2300016: Cone03
+    2300018: Cone04
+    2300020: control panel
+    2300022: Cylinder01
+    2300024: Cylinder02
+    2300026: Cylinder03
+    2300028: Cylinder04
+    2300030: Cylinder05
+    2300032: Cylinder06
+    2300034: Cylinder07
+    2300036: Cylinder11
+    2300038: Cylinder14
+    2300040: Cylinder15
+    2300042: front panel
+    2300044: knob
+    2300046: knob01
+    2300048: Line01
+    2300050: Line02
+    2300052: Line03
+    2300054: Line04
+    2300056: Line05
+    2300058: Line06
+    2300060: Line08
+    2300062: Line09
+    2300064: Line10
+    2300066: Line11
+    2300068: Line12
+    2300070: Line13
+    2300072: Line14
+    2300074: Line15
+    2300076: Line16
+    2300078: Line17
+    2300080: Line18
+    2300082: Line19
+    2300084: Line20
+    2300086: Line21
+    2300088: Line22
+    2300090: Line23
+    2300092: Line24
+    2300094: Line25
+    2300096: Line26
+    2300098: Line27
+    2300100: Line28
+    2300102: Line29
+    2300104: Line30
+    2300106: Line31
+    2300108: Line32
+    2300110: Line33
+    2300112: Line34
+    2300114: Line35
+    2300116: Line36
+    2300118: Line37
+    2300120: Line38
+    2300122: Line39
+    2300124: Line40
+    2300126: Line41
+    2300128: Line42
+    2300130: Line43
+    2300132: Line44
+    2300134: Line45
+    2300136: Line46
+    2300138: Line47
+    2300140: Line48
+    2300142: Line49
+    2300144: Line50
+    2300146: Line51
+    2300148: Line52
+    2300150: Line53
+    2300152: Line54
+    2300154: Line55
+    2300156: Line56
+    2300158: Line57
+    2300160: Line58
+    2300162: Line59
+    2300164: Line60
+    2300166: Line61
+    2300168: Line62
+    2300170: Line63
+    2300172: Line64
+    2300174: Line65
+    2300176: Line66
+    2300178: Line67
+    2300180: Line68
+    2300182: Line69
+    2300184: Line70
+    2300186: Line71
+    2300188: Line72
+    2300190: Line73
+    2300192: plastic1
+    2300194: plastic2
+    2300196: rhodes logo
+    2300198: rhodes logo2
+    2300200: Seventy Three
+    2300202: sides
+    2300204: sides01
+    2300206: sides02
+    2300208: sides03
+    2300210: top leather
+    3300000: Box06
+    3300002: Box07
+    3300004: Box08
+    3300006: Box09
+    3300008: case
+    3300010: conceal plane
+    3300012: Cone01
+    3300014: Cone02
+    3300016: Cone03
+    3300018: Cone04
+    3300020: control panel
+    3300022: Cylinder01
+    3300024: Cylinder02
+    3300026: Cylinder03
+    3300028: Cylinder04
+    3300030: Cylinder05
+    3300032: Cylinder06
+    3300034: Cylinder07
+    3300036: Cylinder11
+    3300038: Cylinder14
+    3300040: Cylinder15
+    3300042: front panel
+    3300044: knob
+    3300046: knob01
+    3300048: Line01
+    3300050: Line02
+    3300052: Line03
+    3300054: Line04
+    3300056: Line05
+    3300058: Line06
+    3300060: Line08
+    3300062: Line09
+    3300064: Line10
+    3300066: Line11
+    3300068: Line12
+    3300070: Line13
+    3300072: Line14
+    3300074: Line15
+    3300076: Line16
+    3300078: Line17
+    3300080: Line18
+    3300082: Line19
+    3300084: Line20
+    3300086: Line21
+    3300088: Line22
+    3300090: Line23
+    3300092: Line24
+    3300094: Line25
+    3300096: Line26
+    3300098: Line27
+    3300100: Line28
+    3300102: Line29
+    3300104: Line30
+    3300106: Line31
+    3300108: Line32
+    3300110: Line33
+    3300112: Line34
+    3300114: Line35
+    3300116: Line36
+    3300118: Line37
+    3300120: Line38
+    3300122: Line39
+    3300124: Line40
+    3300126: Line41
+    3300128: Line42
+    3300130: Line43
+    3300132: Line44
+    3300134: Line45
+    3300136: Line46
+    3300138: Line47
+    3300140: Line48
+    3300142: Line49
+    3300144: Line50
+    3300146: Line51
+    3300148: Line52
+    3300150: Line53
+    3300152: Line54
+    3300154: Line55
+    3300156: Line56
+    3300158: Line57
+    3300160: Line58
+    3300162: Line59
+    3300164: Line60
+    3300166: Line61
+    3300168: Line62
+    3300170: Line63
+    3300172: Line64
+    3300174: Line65
+    3300176: Line66
+    3300178: Line67
+    3300180: Line68
+    3300182: Line69
+    3300184: Line70
+    3300186: Line71
+    3300188: Line72
+    3300190: Line73
+    3300192: plastic1
+    3300194: plastic2
+    3300196: rhodes logo
+    3300198: rhodes logo2
+    3300200: Seventy Three
+    3300202: sides
+    3300204: sides01
+    3300206: sides02
+    3300208: sides03
+    3300210: top leather
+    4300000: rhodes logo
+    4300002: Box09
+    4300004: Box08
+    4300006: Cylinder15
+    4300008: Cone01
+    4300010: Cone04
+    4300012: Cone02
+    4300014: Cone03
+    4300016: Cylinder07
+    4300018: sides01
+    4300020: Box06
+    4300022: sides
+    4300024: sides03
+    4300026: Box07
+    4300028: sides02
+    4300030: Seventy Three
+    4300032: front panel
+    4300034: rhodes logo2
+    4300036: top leather
+    4300038: case
+    4300040: plastic2
+    4300042: plastic1
+    4300044: Cylinder03
+    4300046: Cylinder11
+    4300048: Cylinder04
+    4300050: Cylinder05
+    4300052: Cylinder06
+    4300054: Cylinder14
+    4300056: control panel
+    4300058: knob01
+    4300060: knob
+    4300062: Cylinder01
+    4300064: Cylinder02
+    4300066: Line62
+    4300068: Line63
+    4300070: Line64
+    4300072: Line65
+    4300074: Line66
+    4300076: Line67
+    4300078: Line68
+    4300080: Line69
+    4300082: Line70
+    4300084: Line71
+    4300086: Line72
+    4300088: Line73
+    4300090: Line01
+    4300092: Line02
+    4300094: Line03
+    4300096: Line04
+    4300098: Line05
+    4300100: Line06
+    4300102: Line08
+    4300104: Line09
+    4300106: Line10
+    4300108: Line11
+    4300110: Line12
+    4300112: Line13
+    4300114: Line14
+    4300116: Line15
+    4300118: Line16
+    4300120: Line17
+    4300122: Line18
+    4300124: Line19
+    4300126: Line20
+    4300128: Line21
+    4300130: Line22
+    4300132: Line23
+    4300134: Line24
+    4300136: Line25
+    4300138: Line26
+    4300140: Line27
+    4300142: Line28
+    4300144: Line29
+    4300146: Line30
+    4300148: Line31
+    4300150: Line32
+    4300152: Line33
+    4300154: Line34
+    4300156: Line35
+    4300158: Line36
+    4300160: Line37
+    4300162: Line38
+    4300164: Line39
+    4300166: Line40
+    4300168: Line41
+    4300170: Line42
+    4300172: Line43
+    4300174: Line44
+    4300176: Line45
+    4300178: Line46
+    4300180: Line47
+    4300182: Line48
+    4300184: Line49
+    4300186: Line50
+    4300188: Line51
+    4300190: Line52
+    4300192: Line53
+    4300194: Line54
+    4300196: Line55
+    4300198: Line56
+    4300200: Line57
+    4300202: Line58
+    4300204: Line59
+    4300206: Line60
+    4300208: Line61
+    4300210: conceal plane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

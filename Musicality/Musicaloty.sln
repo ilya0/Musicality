@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musicaloty", "Musicaloty.csproj", "{20A8F934-EA9D-52C4-DE3A-A8A7B1D2FB0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musicaloty.Editor", "Musicaloty.Editor.csproj", "{1C0F76FD-271E-1076-9D7D-61FFBAC6B76C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A8F934-EA9D-52C4-DE3A-A8A7B1D2FB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A8F934-EA9D-52C4-DE3A-A8A7B1D2FB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A8F934-EA9D-52C4-DE3A-A8A7B1D2FB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A8F934-EA9D-52C4-DE3A-A8A7B1D2FB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C0F76FD-271E-1076-9D7D-61FFBAC6B76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0F76FD-271E-1076-9D7D-61FFBAC6B76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0F76FD-271E-1076-9D7D-61FFBAC6B76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0F76FD-271E-1076-9D7D-61FFBAC6B76C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
